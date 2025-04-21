@@ -6,14 +6,14 @@
 - Core Functionalities
 
 1. Dashboard 🖥️
-- Display all books in a tabular format.
-- Fields to be shown : ID,Title,Author
+- Displayed all books in a tabular format.
+- Fields shown : ID,Title,Author
 
 - Operations : Details,Update,Delete,Include
-- pagination
+- Pagination added
 for managing large datasets.
 
 <br></br>
- 2. Add New Book
+ 2. Add New Book Section
 - A form to add a new book.
-- Required fields : ID,Title,Author,Price,ISBN,Stock
+- Fields shown : ID,Title,Author,Price,ISBN,Stock

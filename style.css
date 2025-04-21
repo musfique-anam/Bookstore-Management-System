@@ -30,7 +30,7 @@ body {
 }
 
 .btn1{
-    background: linear-gradient(145deg, #233ab1, #404fc1);
+    background: #233ab1;
     color: white;
     padding: 12px 24px;
     font-size: 16px;
@@ -42,7 +42,7 @@ body {
 }
 
 .btn2{
-    background: linear-gradient(145deg, #4CAF50, #388E3C);
+    background: #388E3C;
     color: white;
     padding: 6px 12px;
     font-size: 16px;
@@ -61,6 +61,40 @@ body {
     border-radius: 10px; 
     font-size: 16px;
     outline: none;
+}
+
+.search-bar input{
+    margin-left: 0rem;
+    padding: .5rem;
+    width: 1000px;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px; 
+    font-size: 16px;
+    outline: none;
+}
+
+.add-title .search-bar input {
+    margin-left: 10rem;
+    padding: .5rem;
+    width: 1000px;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px; 
+    font-size: 16px;
+    outline: none;
+}
+
+.add-title h2{
+    margin-left: 10rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.add-title h4{
+    margin-left: 10rem;
+    margin-bottom: .5rem;
+    margin-top: .5rem;
 }
 
 table {
@@ -139,4 +173,30 @@ td:nth-child(4) {
     background-color: #3714f9;
     color: white;
     border: 1px solid #3714f9;
+}
+
+.btn3{
+    margin-top: 1rem;
+    margin-left: 10rem;
+    background: #233ab1;
+    color: white;
+    padding: 6px 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+}
+
+.btn4{
+    background: #f40303;
+    color: white;
+    padding: 6px 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
 }
