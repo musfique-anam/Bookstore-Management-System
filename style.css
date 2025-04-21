@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: white;
+}
+
+/* Top-Bar */
+.top-bar {
+    background-color: black;
+}
+
+.top-bar h3{
+    margin-left: 5rem;
+    padding:1rem;
+    color: white;
+}
+
+/* Search bar */
+.search{
+    margin-left: 6rem;
+    margin-top: 3rem;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.btn1{
+    background: linear-gradient(145deg, #233ab1, #404fc1);
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+}
+
+.btn2{
+    background: linear-gradient(145deg, #4CAF50, #388E3C);
+    color: white;
+    padding: 6px 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+}
+
+.search .search-bar input{
+    padding: .5rem;
+    width: 950px;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px; 
+    font-size: 16px;
+    outline: none;
+}
+
+table {
+    margin-left: 6rem;
+    width: 85%;
+    border-collapse: collapse;       
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+  
+/* Odd rows - white */
+tr:nth-child(odd) {
+    background-color: white;
+}
+
+/* Even rows - light gray */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+td:nth-child(4) {
+    text-align: center;
+}
+
+.button1 {
+    padding: 5px 10px;
+    color: rgb(1, 81, 252);
+    border-color: rgb(7, 7, 243);          
+    text-align: center;
+    border-radius: 5px; 
+    cursor: pointer;
+  }
+
+.button2 {
+    margin-right: 5px;
+    padding: 5px 10px;
+    color: rgb(249, 94, 4);
+    border-color: rgb(255, 81, 0);          
+    text-align: center;
+    border-radius: 5px; 
+    cursor: pointer;
+  }
+
+.button3 {
+    margin-left: flex;
+    margin-right: 5px;
+    padding: 5px 10px;
+    color: rgb(239, 11, 11);
+    border-color: red;          
+    text-align: center;
+    border-radius: 5px; 
+    cursor: pointer;
+}
+
+.pagination {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px 0;
+}
+  
+.pagination a {
+    color: black;
+    float: none;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin: 0 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.pagination a.active {
+    background-color: #3714f9;
+    color: white;
+    border: 1px solid #3714f9;
+}
