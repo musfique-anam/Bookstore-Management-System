@@ -3,9 +3,10 @@
 ## Web Engineering Lab Final Project
 
 
-- Core Functionalities
+### Core Functionalities
 
-1. Dashboard 🖥️
+## 1. Dashboard 🖥️
+![Alt text](/images/Dashboard.png)
 - Displayed all books in a tabular format.
 - Fields shown : ID,Title,Author
 
@@ -14,6 +15,8 @@
 for managing large datasets.
 
 <br></br>
- 2. Add New Book Section
+
+## 2. Add New Book Section
+![Alt text](/images/AddBook.png)
 - A form to add a new book.
 - Fields shown : ID,Title,Author,Price,ISBN,Stock
