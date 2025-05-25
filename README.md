@@ -61,11 +61,8 @@ The application follows the Model-View-Controller (MVC) architecture to ensure c
 
 
 - Framework: Laravel 10
-
 - Templating Engine: Blade
-
 - Database: MySQL / MariaDB
-
 - Frontend Styling: Bootstrap
 
 #### Tools Used: Composer, Artisan Console, Laravel Tinker
@@ -77,13 +74,9 @@ The application follows the Model-View-Controller (MVC) architecture to ensure c
 ### ⚙️ Requirements
 
 - PHP 8.x
-
 - Composer
-
-- MySQL or MariaDB
-
+- MySQL
 - Laravel CLI
-
 - Laragon or equivalent local server
 
 <br>
