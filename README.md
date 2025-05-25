@@ -11,6 +11,7 @@ This system is suitable for use in libraries, institutions, and personal invento
 
 The video provides an overview of features, system behavior, and usage workflow.
 
+<br>
 
 ## 🚀 Project Overview
 
@@ -27,6 +28,7 @@ It provides robust functionality for:
 
 The application follows the Model-View-Controller (MVC) architecture to ensure clarity, maintainability, and extensibility.
 
+<br>
 
 ## ✨ Key Features
 
@@ -37,6 +39,7 @@ The application follows the Model-View-Controller (MVC) architecture to ensure c
 - Modular layout with reusable Blade components  
 - Responsive user interface compatible with all devices  
 
+<br>
 
 ## 📁 File & Structure Overview
 
@@ -52,6 +55,7 @@ The application follows the Model-View-Controller (MVC) architecture to ensure c
 │   └── show.blade.php            # Detailed view page
 ```
 
+<br>
 
 ## 🛠 Technology Stack
 
@@ -66,6 +70,7 @@ The application follows the Model-View-Controller (MVC) architecture to ensure c
 
 #### Tools Used: Composer, Artisan Console, Laravel Tinker
 
+<br>
 
 ## 🔧 System Setup Guide
 
@@ -81,6 +86,7 @@ The application follows the Model-View-Controller (MVC) architecture to ensure c
 
 - Laragon or equivalent local server
 
+<br>
 
 ## 💻 Installation Steps
 
@@ -121,6 +127,7 @@ php artisan serve
 
 ### Open your browser at http://localhost:8000
 
+<br>
 
 ## 🖥️ Local Development (Using Laragon)
 
@@ -130,6 +137,8 @@ php artisan serve
 
 #### Application was accessible at localhost:8000
 
+<br>
+
 ## 📦 Deployment Notes
 
 - Ensure PHP, MySQL, and all environment dependencies match the local development version
@@ -137,6 +146,7 @@ php artisan serve
 - Migrate the database and configure file permissions as per server OS
 - For production, consider enabling caching for routes, config, and views
 
+<br>
 
 ## 🎯 Use Case Applications
 
@@ -146,11 +156,14 @@ php artisan serve
 - Digital repositories for personal collections
 
 
+<br>
+
 ## ✍️ Author
 
-### Your Name
-> 📧 your.email@example.com
+### Md. Musfique Anam Ananto
+> 📧 musfique.contact@gmail.com
 
+<br>
 
 ## 📜 License
 > This project is open-sourced under the MIT License.
