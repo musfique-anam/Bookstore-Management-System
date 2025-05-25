@@ -44,7 +44,7 @@ The application follows the Model-View-Controller (MVC) architecture to ensure c
 ## 📁 File & Structure Overview
 
 ```plaintext
-├── routes/web.php                 # Web route definitions
+├── routes/web.php                # Web route definitions
 ├── app/Http/Controllers/
 │   └── BookController.php        # Main controller handling logic
 ├── app/Models/Book.php           # Book Eloquent model
