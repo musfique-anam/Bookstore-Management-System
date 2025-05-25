@@ -1,4 +1,4 @@
-# 📚 Book Management System
+# 📚 Bookstore Management System
 
 A structured and scalable Laravel-based application designed to manage book records efficiently.  
 This system is suitable for use in libraries, institutions, and personal inventory systems.
@@ -14,7 +14,7 @@ The video provides an overview of features, system behavior, and usage workflow.
 
 ## 🚀 Project Overview
 
-The Book Management System is a complete Laravel CRUD application.  
+The Bookstore Management System is a complete Laravel CRUD application.  
 It provides robust functionality for:
 
 
@@ -57,7 +57,6 @@ The application follows the Model-View-Controller (MVC) architecture to ensure c
 <br>
 
 ## 🛠 Technology Stack
-
 
 - Framework: Laravel 10
 - Templating Engine: Blade
