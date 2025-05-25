@@ -125,7 +125,7 @@ php artisan migrate
 php artisan serve
 ```
 
-### Open your browser at http://localhost:8000
+#### Open your browser at http://localhost:8000
 
 <br>
 
