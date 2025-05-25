@@ -8,7 +8,7 @@ This system is suitable for use in libraries, institutions, and personal invento
 #### 🎥 Demo Video  
 > 📺 [Watch the live demo](https://your-demo-link.com)
 
-The video provides an overview of features, system behavior, and usage workflow.
+This video provides an overview of features, system behavior, and usage workflow.
 
 <br>
 
